@@ -43,9 +43,6 @@ export default function Footer() {
         <p className="mt-2 text-rubix-gray-600">
           Built with <span className="text-rubix-secondary">❤️</span> for the decentralized future
         </p>
-        <p className="mt-1 text-xs text-rubix-gray-500">
-          138, Cecil St, #09-02, Cecil Court, Singapore
-        </p>
       </div>
     </footer>
   );
