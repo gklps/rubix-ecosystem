@@ -43,6 +43,7 @@ export default function Footer() {
         <p className="mt-2 text-rubix-gray-600">
           Built with <span className="text-rubix-secondary">❤️</span> for the decentralized future
         </p>
+        
       </div>
     </footer>
   );
