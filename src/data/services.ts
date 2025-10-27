@@ -72,7 +72,7 @@ export const services: Service[] = [
     id: 'validator-tool',
     name: 'Validator Tool',
     description: 'Comprehensive validator management and monitoring platform',
-    url: 'https://mainnet-pool.universe.rubix.net/api/quorum/health',
+    url: 'https://validators.universe.rubix.net/',
     category: 'Services',
     isExternal: true,
   },
