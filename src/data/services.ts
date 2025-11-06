@@ -30,7 +30,7 @@ export const services: Service[] = [
     id: 'faucets',
     name: 'Faucets',
     description: 'Test token distribution system for development purposes',
-    url: 'http://103.209.145.177:4000/',
+    url: 'https://faucet.rubix.net/',
     category: 'Rubix Toolbox',
     isExternal: true,
   },
